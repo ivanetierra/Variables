@@ -24,8 +24,8 @@ public class fase4 {
 		}else {
 			text = "1994 no es de traspaso.";
 		}
-		System.out.println("El meu nom és "+nomComplert);
-		System.out.println("Vaig neixer el "+dataNaixement);
+		System.out.println("Mi nombre es "+nomComplert);
+		System.out.println("naci el: "+dataNaixement);
 		System.out.println(text);
 
 	}
